@@ -1,0 +1,193 @@
+"Country","BiomeName","Period2","NoSamples","MW_pvalue","TT_pvalue","pvalueGT"
+"Australia","Temperate Broadleaf and Mixed Forests",1,989,8.89004925954852e-09,1.46374827276253e-07,TRUE
+"Australia","Temperate Broadleaf and Mixed Forests",2,607,0.00233687091700573,0.00478985042366176,TRUE
+"Australia","Temperate Broadleaf and Mixed Forests",3,910,0.00566231872728864,2.77024371769473e-05,TRUE
+"Australia","Temperate Broadleaf and Mixed Forests",4,387,0.11994930614223,0.89282558594876,FALSE
+"Australia","Temperate Broadleaf and Mixed Forests",5,0,0,0,TRUE
+"Australia","Temperate Broadleaf and Mixed Forests",6,0,0,0,TRUE
+"Australia","Temperate Grasslands, Savannas, and Shrublands",1,959,6.33661125503782e-34,9.52067287436943e-21,TRUE
+"Australia","Temperate Grasslands, Savannas, and Shrublands",2,592,8.70622496900749e-23,2.23520946599484e-08,TRUE
+"Australia","Temperate Grasslands, Savannas, and Shrublands",3,745,3.0632519622923e-21,1.78296141248572e-19,TRUE
+"Australia","Temperate Grasslands, Savannas, and Shrublands",4,323,4.93138072659717e-09,9.99792407867204e-07,TRUE
+"Australia","Temperate Grasslands, Savannas, and Shrublands",5,0,0,0,TRUE
+"Australia","Temperate Grasslands, Savannas, and Shrublands",6,0,0,0,TRUE
+"Australia","Montane Grasslands and Shrublands",1,466,1.93888099223886e-20,2.89757538555199e-22,TRUE
+"Australia","Montane Grasslands and Shrublands",2,205,1.64728377445007e-22,6.36861522715712e-26,TRUE
+"Australia","Montane Grasslands and Shrublands",3,777,5.68492558396598e-28,6.1422504832782e-29,TRUE
+"Australia","Montane Grasslands and Shrublands",4,1,0,0,TRUE
+"Australia","Montane Grasslands and Shrublands",5,0,0,0,TRUE
+"Australia","Montane Grasslands and Shrublands",6,0,0,0,TRUE
+"Australia","Mediterranean Forests, Woodlands, and Scrub",1,1066,1.03839613416434e-105,2.43556330180697e-95,TRUE
+"Australia","Mediterranean Forests, Woodlands, and Scrub",2,890,0.00102087844294319,4.4688754031547e-06,TRUE
+"Australia","Mediterranean Forests, Woodlands, and Scrub",3,1009,1.48100161856987e-09,1.7818580508215e-10,TRUE
+"Australia","Mediterranean Forests, Woodlands, and Scrub",4,1054,6.28698746178649e-41,1.90805987546059e-38,TRUE
+"Australia","Mediterranean Forests, Woodlands, and Scrub",5,0,0,0,TRUE
+"Australia","Mediterranean Forests, Woodlands, and Scrub",6,0,0,0,TRUE
+"China","Temperate Broadleaf and Mixed Forests",1,358,0.335509352924852,0.018767924437335,FALSE
+"China","Temperate Broadleaf and Mixed Forests",2,258,0.000398675026496574,0.000441225639201733,TRUE
+"China","Temperate Broadleaf and Mixed Forests",3,219,0.00858320014206354,0.0149713020132961,TRUE
+"China","Temperate Broadleaf and Mixed Forests",4,184,4.71734168519944e-09,1.28107270260191e-09,TRUE
+"China","Temperate Broadleaf and Mixed Forests",5,0,0,0,TRUE
+"China","Temperate Broadleaf and Mixed Forests",6,0,0,0,TRUE
+"China","Temperate Coniferous Forests",1,496,0.478529177742387,0.635707509375142,FALSE
+"China","Temperate Coniferous Forests",2,299,0.317233352464828,0.208259525514219,FALSE
+"China","Temperate Coniferous Forests",3,478,3.64967248202404e-11,9.953170689868e-10,TRUE
+"China","Temperate Coniferous Forests",4,457,1.33714744642683e-07,4.06373643319095e-07,TRUE
+"China","Temperate Coniferous Forests",5,0,0,0,TRUE
+"China","Temperate Coniferous Forests",6,0,0,0,TRUE
+"China","Temperate Grasslands, Savannas, and Shrublands",1,185,2.56667422702358e-07,3.17978009465395e-06,TRUE
+"China","Temperate Grasslands, Savannas, and Shrublands",2,167,6.2408768526268e-09,1.05686957499465e-08,TRUE
+"China","Temperate Grasslands, Savannas, and Shrublands",3,256,7.72135098231449e-09,4.34486741415862e-07,TRUE
+"China","Temperate Grasslands, Savannas, and Shrublands",4,119,2.86480405944378e-22,2.16022304637785e-27,TRUE
+"China","Temperate Grasslands, Savannas, and Shrublands",5,0,0,0,TRUE
+"China","Temperate Grasslands, Savannas, and Shrublands",6,0,0,0,TRUE
+"China","Montane Grasslands and Shrublands",1,140,7.85642602901008e-17,5.25991746106521e-16,TRUE
+"China","Montane Grasslands and Shrublands",2,319,0.00480454301055963,0.00368865605613846,TRUE
+"China","Montane Grasslands and Shrublands",3,182,0.00218278324299282,0.00252387124656148,TRUE
+"China","Montane Grasslands and Shrublands",4,162,2.52187748378162e-11,3.56619559814973e-09,TRUE
+"China","Montane Grasslands and Shrublands",5,0,0,0,TRUE
+"China","Montane Grasslands and Shrublands",6,0,0,0,TRUE
+"USA","Temperate Broadleaf and Mixed Forests",1,260,0.00645377068506913,0.00723407719751718,TRUE
+"USA","Temperate Broadleaf and Mixed Forests",2,272,0.00017531791720212,0.000814296297938551,TRUE
+"USA","Temperate Broadleaf and Mixed Forests",3,245,0.0196836252595418,0.0622394323085994,TRUE
+"USA","Temperate Broadleaf and Mixed Forests",4,388,0.000672120503890114,0.000141226034652189,TRUE
+"USA","Temperate Broadleaf and Mixed Forests",5,0,0,0,TRUE
+"USA","Temperate Broadleaf and Mixed Forests",6,0,0,0,TRUE
+"USA","Temperate Coniferous Forests",1,865,1.22202747469709e-08,8.06945638573789e-11,TRUE
+"USA","Temperate Coniferous Forests",2,574,0.00611538292718327,0.00590147348594018,TRUE
+"USA","Temperate Coniferous Forests",3,697,0.308419277691462,0.384224014221023,FALSE
+"USA","Temperate Coniferous Forests",4,734,4.5740656651463e-22,3.19831873454619e-22,TRUE
+"USA","Temperate Coniferous Forests",5,0,0,0,TRUE
+"USA","Temperate Coniferous Forests",6,0,0,0,TRUE
+"USA","Boreal Forests/Taiga",1,813,0.0248520649780594,0.0149203432050428,TRUE
+"USA","Boreal Forests/Taiga",2,998,7.0531872406473e-50,1.25555417316732e-48,TRUE
+"USA","Boreal Forests/Taiga",3,1036,8.70499468147721e-33,3.64842185105116e-35,TRUE
+"USA","Boreal Forests/Taiga",4,959,0.494497540486202,0.227857816971839,FALSE
+"USA","Boreal Forests/Taiga",5,0,0,0,TRUE
+"USA","Boreal Forests/Taiga",6,0,0,0,TRUE
+"USA","Temperate Grasslands, Savannas, and Shrublands",1,287,6.38472782609761e-13,1.33388148202922e-13,TRUE
+"USA","Temperate Grasslands, Savannas, and Shrublands",2,319,1.85155805203762e-09,1.6873374436179e-09,TRUE
+"USA","Temperate Grasslands, Savannas, and Shrublands",3,240,0.0383171646562457,0.0539770634688419,TRUE
+"USA","Temperate Grasslands, Savannas, and Shrublands",4,523,6.45056516325579e-27,1.68374923792958e-31,TRUE
+"USA","Temperate Grasslands, Savannas, and Shrublands",5,0,0,0,TRUE
+"USA","Temperate Grasslands, Savannas, and Shrublands",6,0,0,0,TRUE
+"USA","Mediterranean Forests, Woodlands, and Scrub",1,897,0.00047975190052259,0.00167859727696186,TRUE
+"USA","Mediterranean Forests, Woodlands, and Scrub",2,729,3.81935994350272e-05,0.00010246332659832,TRUE
+"USA","Mediterranean Forests, Woodlands, and Scrub",3,1018,0.00346137704040625,0.00397562011345706,TRUE
+"USA","Mediterranean Forests, Woodlands, and Scrub",4,709,0.00052982435339344,0.0050419456639839,TRUE
+"USA","Mediterranean Forests, Woodlands, and Scrub",5,0,0,0,TRUE
+"USA","Mediterranean Forests, Woodlands, and Scrub",6,0,0,0,TRUE
+"Russia","Temperate Broadleaf and Mixed Forests",1,258,0.00645833114954548,0.00206929140653861,TRUE
+"Russia","Temperate Broadleaf and Mixed Forests",2,91,0.198425489024211,0.15040440187289,FALSE
+"Russia","Temperate Broadleaf and Mixed Forests",3,126,0.530512819862974,0.426586828589514,FALSE
+"Russia","Temperate Broadleaf and Mixed Forests",4,261,0.0159564951305347,0.0150906571421351,TRUE
+"Russia","Temperate Broadleaf and Mixed Forests",5,0,0,0,TRUE
+"Russia","Temperate Broadleaf and Mixed Forests",6,0,0,0,TRUE
+"Russia","Temperate Coniferous Forests",1,445,0.0408611837320569,0.0669473295389029,TRUE
+"Russia","Temperate Coniferous Forests",2,215,0.57395240002232,0.680699474523439,FALSE
+"Russia","Temperate Coniferous Forests",3,276,3.82272617791614e-05,0.000121507189556076,TRUE
+"Russia","Temperate Coniferous Forests",4,415,0.140330546454538,0.123599642201717,FALSE
+"Russia","Temperate Coniferous Forests",5,0,0,0,TRUE
+"Russia","Temperate Coniferous Forests",6,0,0,0,TRUE
+"Russia","Boreal Forests/Taiga",1,942,0.00044268257397661,0.000727062803567313,TRUE
+"Russia","Boreal Forests/Taiga",2,634,3.20181525119981e-07,7.9152033552743e-07,TRUE
+"Russia","Boreal Forests/Taiga",3,688,0.875428935493054,0.742113549138284,FALSE
+"Russia","Boreal Forests/Taiga",4,854,0.49208273156195,0.476945647711548,FALSE
+"Russia","Boreal Forests/Taiga",5,0,0,0,TRUE
+"Russia","Boreal Forests/Taiga",6,0,0,0,TRUE
+"Russia","Temperate Grasslands, Savannas, and Shrublands",1,324,0.000952412781879284,0.00370636079488956,TRUE
+"Russia","Temperate Grasslands, Savannas, and Shrublands",2,119,0.602220110554534,0.677185025765315,FALSE
+"Russia","Temperate Grasslands, Savannas, and Shrublands",3,166,0.184143518172391,0.117701365534478,FALSE
+"Russia","Temperate Grasslands, Savannas, and Shrublands",4,282,9.31293409851355e-07,2.47972929093712e-06,TRUE
+"Russia","Temperate Grasslands, Savannas, and Shrublands",5,0,0,0,TRUE
+"Russia","Temperate Grasslands, Savannas, and Shrublands",6,0,0,0,TRUE
+"Russia","Montane Grasslands and Shrublands",1,673,4.36907837035037e-11,5.39101695581242e-14,TRUE
+"Russia","Montane Grasslands and Shrublands",2,3,0,0,TRUE
+"Russia","Montane Grasslands and Shrublands",3,236,0.638525872128195,0.742467358794485,FALSE
+"Russia","Montane Grasslands and Shrublands",4,788,2.16619251282248e-08,1.7533590326888e-09,TRUE
+"Russia","Montane Grasslands and Shrublands",5,0,NA,NA,FALSE
+"Russia","Montane Grasslands and Shrublands",6,0,NA,NA,FALSE
+"Canada","Temperate Broadleaf and Mixed Forests",1,253,0.000599585987894589,0.229325642122109,TRUE
+"Canada","Temperate Broadleaf and Mixed Forests",2,642,3.55394547372293e-18,3.38238211720535e-14,TRUE
+"Canada","Temperate Broadleaf and Mixed Forests",3,624,9.03656519150234e-11,1.91230250320949e-08,TRUE
+"Canada","Temperate Broadleaf and Mixed Forests",4,848,0.793591736400855,0.367769327555002,FALSE
+"Canada","Temperate Broadleaf and Mixed Forests",5,0,NA,NA,FALSE
+"Canada","Temperate Broadleaf and Mixed Forests",6,0,NA,NA,FALSE
+"Canada","Temperate Coniferous Forests",1,832,0.00652036891588642,0.00134405285581737,TRUE
+"Canada","Temperate Coniferous Forests",2,946,0.798079718170581,0.67515864275313,FALSE
+"Canada","Temperate Coniferous Forests",3,724,0.755047879811541,0.916638140027473,FALSE
+"Canada","Temperate Coniferous Forests",4,800,0.00517876896798451,0.00714781290733892,TRUE
+"Canada","Temperate Coniferous Forests",5,0,NA,NA,FALSE
+"Canada","Temperate Coniferous Forests",6,0,NA,NA,FALSE
+"Canada","Boreal Forests/Taiga",1,1219,0.0544639905444317,0.00778438701420355,FALSE
+"Canada","Boreal Forests/Taiga",2,1245,0.00187297788244684,0.00162140900543453,TRUE
+"Canada","Boreal Forests/Taiga",3,1250,0.704961859444373,0.807429872752653,FALSE
+"Canada","Boreal Forests/Taiga",4,1267,0.410822146307375,0.624219957304865,FALSE
+"Canada","Boreal Forests/Taiga",5,0,NA,NA,FALSE
+"Canada","Boreal Forests/Taiga",6,0,NA,NA,FALSE
+"Canada","Temperate Grasslands, Savannas, and Shrublands",1,599,0.0717363172264967,0.346325953398289,FALSE
+"Canada","Temperate Grasslands, Savannas, and Shrublands",2,255,0.109381842635972,0.375591433705419,FALSE
+"Canada","Temperate Grasslands, Savannas, and Shrublands",3,114,0.186431884284706,0.048430829982244,FALSE
+"Canada","Temperate Grasslands, Savannas, and Shrublands",4,251,0.0198300723933247,0.0340800999565113,TRUE
+"Canada","Temperate Grasslands, Savannas, and Shrublands",5,0,NA,NA,FALSE
+"Canada","Temperate Grasslands, Savannas, and Shrublands",6,0,NA,NA,FALSE
+"Chile","Temperate Broadleaf and Mixed Forests",1,618,0.0111238518151864,0.138884013574502,TRUE
+"Chile","Temperate Broadleaf and Mixed Forests",2,484,0.85446591064145,0.414198451362657,FALSE
+"Chile","Temperate Broadleaf and Mixed Forests",3,939,0.0112904501449683,0.292231211250017,TRUE
+"Chile","Temperate Broadleaf and Mixed Forests",4,837,0.463085906216685,0.533498526403507,FALSE
+"Chile","Temperate Broadleaf and Mixed Forests",5,0,NA,NA,FALSE
+"Chile","Temperate Broadleaf and Mixed Forests",6,0,NA,NA,FALSE
+"Chile","Mediterranean Forests, Woodlands, and Scrub",1,327,0.367534500624705,0.0293532909580539,FALSE
+"Chile","Mediterranean Forests, Woodlands, and Scrub",2,323,0.0720929672362863,0.190530695358749,FALSE
+"Chile","Mediterranean Forests, Woodlands, and Scrub",3,503,0.853310421575523,0.391122619386241,FALSE
+"Chile","Mediterranean Forests, Woodlands, and Scrub",4,445,0.0416976652501525,0.0137139300444086,TRUE
+"Chile","Mediterranean Forests, Woodlands, and Scrub",5,0,NA,NA,FALSE
+"Chile","Mediterranean Forests, Woodlands, and Scrub",6,0,NA,NA,FALSE
+"Europe","Temperate Broadleaf and Mixed Forests",1,396,0.771072463158068,0.457863096588375,FALSE
+"Europe","Temperate Broadleaf and Mixed Forests",2,542,0.00983020308016745,1.67185504992952e-05,TRUE
+"Europe","Temperate Broadleaf and Mixed Forests",3,286,0.000513964081925975,0.000265644367875147,TRUE
+"Europe","Temperate Broadleaf and Mixed Forests",4,456,0.969485612549916,0.721414316906442,FALSE
+"Europe","Temperate Broadleaf and Mixed Forests",5,0,NA,NA,FALSE
+"Europe","Temperate Broadleaf and Mixed Forests",6,0,NA,NA,FALSE
+"Europe","Mediterranean Forests, Woodlands, and Scrub",1,655,0.441610187348199,0.532741157164514,FALSE
+"Europe","Mediterranean Forests, Woodlands, and Scrub",2,784,0.400311052838137,0.186813891919248,FALSE
+"Europe","Mediterranean Forests, Woodlands, and Scrub",3,678,4.37756877978266e-06,1.16469838852073e-05,TRUE
+"Europe","Mediterranean Forests, Woodlands, and Scrub",4,577,1.03795919802431e-06,1.39422544301369e-05,TRUE
+"Europe","Mediterranean Forests, Woodlands, and Scrub",5,0,NA,NA,FALSE
+"Europe","Mediterranean Forests, Woodlands, and Scrub",6,0,NA,NA,FALSE
+"All","Temperate Broadleaf and Mixed Forests",1,3132,0.0181945642265932,0.0527629420816207,TRUE
+"All","Temperate Broadleaf and Mixed Forests",2,2896,0.00696340693539234,0.0380073831176009,TRUE
+"All","Temperate Broadleaf and Mixed Forests",3,3349,1.58794715337642e-05,0.00175402100580694,TRUE
+"All","Temperate Broadleaf and Mixed Forests",4,3361,4.19544457223233e-05,0.00153018697298156,TRUE
+"All","Temperate Broadleaf and Mixed Forests",5,0,NA,NA,FALSE
+"All","Temperate Broadleaf and Mixed Forests",6,0,NA,NA,FALSE
+"All","Temperate Coniferous Forests",1,2638,0.000338627397713153,0.000429778182640041,TRUE
+"All","Temperate Coniferous Forests",2,2034,3.89621260075477e-05,1.66149970468393e-05,TRUE
+"All","Temperate Coniferous Forests",3,2175,0.264979026042995,0.324582370475529,FALSE
+"All","Temperate Coniferous Forests",4,2406,1.02559878017046e-10,1.18934899714334e-10,TRUE
+"All","Temperate Coniferous Forests",5,0,NA,NA,FALSE
+"All","Temperate Coniferous Forests",6,0,NA,NA,FALSE
+"All","Boreal Forests/Taiga",1,2974,1.07915215442059e-05,6.01610093477577e-06,TRUE
+"All","Boreal Forests/Taiga",2,2877,1.27829665754334e-39,1.0587640515869e-37,TRUE
+"All","Boreal Forests/Taiga",3,2974,1.61450543533889e-12,1.73594778584521e-13,TRUE
+"All","Boreal Forests/Taiga",4,3080,0.156235520759759,0.200903266418295,FALSE
+"All","Boreal Forests/Taiga",5,0,NA,NA,FALSE
+"All","Boreal Forests/Taiga",6,0,NA,NA,FALSE
+"All","Temperate Grasslands, Savannas, and Shrublands",1,2354,5.3145364038526e-18,6.13156267496281e-09,TRUE
+"All","Temperate Grasslands, Savannas, and Shrublands",2,1452,0.775230747259227,0.101810335051441,FALSE
+"All","Temperate Grasslands, Savannas, and Shrublands",3,1521,0.00038616981192845,0.101256224213784,TRUE
+"All","Temperate Grasslands, Savannas, and Shrublands",4,1498,4.06227572973606e-14,2.55850990055848e-14,TRUE
+"All","Temperate Grasslands, Savannas, and Shrublands",5,0,NA,NA,FALSE
+"All","Temperate Grasslands, Savannas, and Shrublands",6,0,NA,NA,FALSE
+"All","Montane Grasslands and Shrublands",1,1279,3.57008864875809e-18,9.55094827294273e-22,TRUE
+"All","Montane Grasslands and Shrublands",2,527,3.69506023515458e-07,6.72351901354214e-09,TRUE
+"All","Montane Grasslands and Shrublands",3,1195,1.08572590764092e-47,4.10938935304808e-48,TRUE
+"All","Montane Grasslands and Shrublands",4,951,0.0087245440954427,0.0472044022725869,TRUE
+"All","Montane Grasslands and Shrublands",5,0,NA,NA,FALSE
+"All","Montane Grasslands and Shrublands",6,0,NA,NA,FALSE
+"All","Mediterranean Forests, Woodlands, and Scrub",1,2945,6.55703163126094e-55,6.3464914271309e-45,TRUE
+"All","Mediterranean Forests, Woodlands, and Scrub",2,2726,1.05626394408184e-05,9.98172851544154e-07,TRUE
+"All","Mediterranean Forests, Woodlands, and Scrub",3,3208,0.132115918413572,0.0621856644559209,FALSE
+"All","Mediterranean Forests, Woodlands, and Scrub",4,2785,2.69968385725191e-41,3.9784213589374e-31,TRUE
+"All","Mediterranean Forests, Woodlands, and Scrub",5,0,NA,NA,FALSE
+"All","Mediterranean Forests, Woodlands, and Scrub",6,0,NA,NA,FALSE

@@ -1,0 +1,41 @@
+"Country","BiomeName","Area","AreaL","Percent","NumF","NumLF"
+"Australia","Mediterranean Forests, Woodlands, and Scrub",4983.53125,4692.60625,94.1622719833451,13644,1538
+"Australia","Montane Grasslands and Shrublands",892.55625,884.41875,99.0882927546583,342,75
+"Australia","Temperate Broadleaf and Mixed Forests",7070.26875,6553.6375,92.69290506107,19101,2669
+"Australia","Temperate Grasslands, Savannas, and Shrublands",426.45,389.3625,91.3032008441787,2350,99
+"Canada","Boreal Forests/Taiga",27065.06875,26443.675,97.7040747402498,23228,5379
+"Canada","Temperate Broadleaf and Mixed Forests",360.91875,339.71875,94.1261017888375,720,109
+"Canada","Temperate Coniferous Forests",3270.525,3091.60625,94.5293569075301,5462,930
+"Canada","Temperate Grasslands, Savannas, and Shrublands",420.125,282.03125,67.1303183576317,7417,276
+"Chile","Mediterranean Forests, Woodlands, and Scrub",410.08125,243.04375,59.2672183866002,7156,306
+"Chile","Temperate Broadleaf and Mixed Forests",675.9625,608.78125,90.0613939382732,2280,256
+"China","Montane Grasslands and Shrublands",20.9375,11.28125,53.8805970149254,513,20
+"China","Temperate Broadleaf and Mixed Forests",2876.5625,2038.25,70.8571428571428,39629,2172
+"China","Temperate Coniferous Forests",1134.51875,860.70625,75.8653173427059,10620,862
+"China","Temperate Grasslands, Savannas, and Shrublands",171.58125,88.95,51.8413288165228,4395,140
+"Europe","Mediterranean Forests, Woodlands, and Scrub",2867.31875,2342.89375,81.7102650341892,21182,2025
+"Europe","Temperate Broadleaf and Mixed Forests",1672.875,1109.4375,66.3192109392513,21706,1558
+"Russia","Boreal Forests/Taiga",60633.9875,55064.03125,90.813805128683,207294,26811
+"Russia","Montane Grasslands and Shrublands",54.075,42.49375,78.5829865926953,490,73
+"Russia","Temperate Broadleaf and Mixed Forests",26159.65625,20761.9625,79.3663429732568,248771,13740
+"Russia","Temperate Coniferous Forests",6409.475,5810.75625,90.6588488136704,21909,2916
+"Russia","Temperate Grasslands, Savannas, and Shrublands",12091.68125,7482.66875,61.8827820159417,242559,8217
+"USA","Boreal Forests/Taiga",4642,4240.43125,91.3492298578199,16102,1347
+"USA","Mediterranean Forests, Woodlands, and Scrub",1423.01875,1344.0875,94.4532529877066,3845,381
+"USA","Temperate Broadleaf and Mixed Forests",2409.88125,1530.24375,63.4987201132836,35691,2219
+"USA","Temperate Coniferous Forests",11422.35,9903.625,86.7039181954677,48991,6623
+"USA","Temperate Grasslands, Savannas, and Shrublands",1633.05,812.9625,49.78184991274,40594,1301
+"Australia","Total",13372.80625,12520.025,93.623019476559,35437,4381
+"Canada","Total",31116.6375,30157.03125,96.91609914471,36827,6694
+"Chile","Total",1086.04375,851.825,78.4337647539521,9436,562
+"China","Total",4203.6,2999.1875,71.3480707013036,55157,3194
+"Europe","Total",4540.19375,3452.33125,76.0392934772883,42888,3583
+"Russia","Total",105348.875,89161.9125,84.6348976199319,721023,51757
+"USA","Total",21530.3,17831.35,82.8197935003228,145223,11871
+"zNA","Boreal Forests/Taiga",92341.05625,85748.1375,92.8602519640336,246624,33537
+"zNA","Mediterranean Forests, Woodlands, and Scrub",9683.95,8622.63125,89.0404354628019,45827,4250
+"zNA","Montane Grasslands and Shrublands",967.56875,938.19375,96.9640400229958,1345,168
+"zNA","Temperate Broadleaf and Mixed Forests",41226.125,32942.03125,79.9057181580854,367898,22723
+"zNA","Temperate Coniferous Forests",22236.86875,19666.69375,88.4418304173334,86982,11331
+"zNA","Temperate Grasslands, Savannas, and Shrublands",14742.8875,9055.975,61.4260605325788,297315,10033
+"zzNA","zzNA",181198.45625,156973.6625,86.6307946263201,1045991,82042
